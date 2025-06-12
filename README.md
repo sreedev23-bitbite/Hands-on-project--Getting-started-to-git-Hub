@@ -1,1 +1,1 @@
-This is a small notebook on Tools used for Data Science.
+This is a small notebook on Tools used for Data Science. To open this you need to have Jupyter notebook account or anyother source like anaconda to open the note. Hope it becomes usefull. Happy Reading :)
